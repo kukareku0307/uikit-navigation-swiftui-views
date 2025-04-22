@@ -1,1 +1,1 @@
-# UIKit Coordinator Pattern with implemented SwiftUI views
+# UIKit Coordinator Pattern with SwiftUI views
